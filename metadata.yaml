@@ -1,0 +1,30 @@
+_repo: The-Story-of-the-Teasing-Monkey_43906
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43906-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bannerman, Helen
+    alias: Watson, Helen Brodie Cowan
+    birthdate: 1862
+    deathdate: 1946
+    gutenberg_agent_id: '605'
+    url: http://www.gutenberg.org/2009/agents/605
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Bannerman
+description: ''
+gutenberg_issued: '2013-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monkeys -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Lion -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Story of the Teasing Monkey
+url: http://www.gutenberg.org/ebooks/43906
