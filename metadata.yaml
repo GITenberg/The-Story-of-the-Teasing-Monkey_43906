@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/605
     wikipedia: http://en.wikipedia.org/wiki/Helen_Bannerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43906#The-Story-of-the-Teasing-Monkey
 gutenberg_issued: '2013-10-08'
 gutenberg_type: Text
 identifiers:
